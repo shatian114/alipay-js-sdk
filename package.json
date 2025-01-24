@@ -1,0 +1,12 @@
+{
+  "name": "alipay-js-sdk",
+  "version": "3.1.1",
+  "license": "MIT",
+  "main": "index.js",
+  "description": "支付宝官方 js-sdk npm 安装版，支持 typescript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shatian114/alipay-js-sdk"
+  },
+  "homepage": "https://github.com/shatian114/"
+}
