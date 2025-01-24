@@ -1,6 +1,8 @@
 支付宝官方 js-sdk
 ----
 
+当前还处于测试阶段，使用过程中如有任何问题，请发issue,或进QQ群: 588939392
+
 说明: 仅将官方 js-sdk 发布到 npm，支持 CommonJS，便于 browserify, webpack 等直接使用，支持 TypeScript。
 
 
