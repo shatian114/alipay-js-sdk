@@ -1,6 +1,6 @@
 {
   "name": "alipay-js-sdk",
-  "version": "3.1.1",
+  "version": "3.1.2-0",
   "license": "MIT",
   "main": "index.js",
   "description": "支付宝官方 js-sdk npm 安装版，支持 typescript",
