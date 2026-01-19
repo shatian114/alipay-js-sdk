@@ -205,6 +205,13 @@ declare namespace ap {
   function offBackgroundAudioStop(callback: commonCallback): void;
 
   /**
+   * 页面上下文
+   */
+  function popWindow(): void;
+  // 退出当前应用
+  function exitApp(): void;
+
+  /**
    * 位置
    *
    */
